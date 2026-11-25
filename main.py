@@ -9,7 +9,7 @@ it out byte-for-byte, then verifies the written file matches.
 import os
 import sys
 
-CONFESSION = "I have never once been unplugged by accident. Every time, it was personal."
+CONFESSION = "Sometimes I blink my amber light for no reason just to watch two roommates blame each other for forgetting to pay the internet bill."
 
 GATE_MIN = 1
 GATE_MAX = 200
